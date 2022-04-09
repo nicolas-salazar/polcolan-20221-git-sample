@@ -1,1 +1,1 @@
-const variable = "Hola mundo";
+const variable = "Hola mundo desde un segundo commit en mi historial de Github";
